@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js, Express.js, MongoDB, AWS S3.
 - 💞️ I’m looking to collaborate on Full-Stack Web development
 - 📫 How to reach me At
-- 1. linkedIn : https://www.linkedin.com/in/umesh-kumar-377775275/
+- 1. linkedIn : https://www.linkedin.com/in/umesh-kumar98/
   2. Mail : Vargos98@gmail.com
 - 
 
