@@ -1,12 +1,4 @@
 
-- 👋 Hi, I’m Umesh Kumar
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Node.js, Express.js, MongoDB, AWS S3.
-- 💞️ I’m looking to collaborate on Full-Stack Web development
-- 📫 How to reach me:
-- 1. linkedIn : https://www.linkedin.com/in/umesh-kumar98/
-  2. Mail     : Vargos98@gmail.com
-  3. Website  : https://umeshkumar.vercel.app/  
 
 <!---
 Vargos98/Vargos98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="Node" alt="Node" width="40" height="40"/>
@@ -47,7 +39,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://images.prismic.io/contrary-research/0f4e0201-e82a-4356-b167-ee0610ec7ad0_Vercel.jpeg?auto=compress,format" title="vercel" alt="vercel" width="40" height="40"/>
   <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" title="CPP" alt="CPP" width="40" height="40"/>
   <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+
  
 </div>
 </div>
@@ -60,6 +52,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
  <img src="https://miro.medium.com/v2/resize:fit:983/1*W0fC854FAMD1EP60bnl2lg.png" title="Next" alt="Next" width="40" height="40"/>&nbsp;
  <img src="https://iqunet.com/wp-content/uploads/2020/07/BLUE-INVERS-sensor-GRAPHQL-icon-large-400x364.jpg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+ <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   </div>
 
 ---
