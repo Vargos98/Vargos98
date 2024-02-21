@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="Email Badge"  width="30" height="30"/>
   </a>
   <a href="https://umeshkumar.vercel.app/ ">
-    <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website"  width="30" height="30" margin-right="30"/>
+    <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website"  width="30" height="30" />
   </a>&nbsp;
   
   
