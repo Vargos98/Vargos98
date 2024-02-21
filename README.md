@@ -58,8 +58,11 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
-<div id="badges" align="center" display="flex" gap="30">
+<div id="badges" align="center">
   <br><br>
+  <a href="https://umeshkumar.vercel.app/ ">
+    <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website"  width="30" height="30" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/umesh-kumar98/">
     <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIn Badge" width="30" height="30"/>
   </a>&nbsp;
@@ -69,9 +72,7 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:Vargos98@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="Email Badge"  width="30" height="30"/>
   </a>
-  <a href="https://umeshkumar.vercel.app/ ">
-    <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website"  width="30" height="30" />
-  </a>&nbsp;
+  
   
   
   <h2>Talk to you soon!</h2>
