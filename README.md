@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
- <img src="https://miro.medium.com/v2/resize:fit:983/1*W0fC854FAMD1EP60bnl2lg.png" title="Next" alt="Next" width="40" height="40"/>&nbsp;
+ <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" title="Next" alt="Next" width="40" height="40"/>&nbsp;
  <img src="https://graphql-kr.github.io/img/twitter_image.png" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
  <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   </div>
