@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="Node" alt="Node" width="40" height="40"/>
-  <img src="[https://cdn.picozu.com/image_icon_java.png](https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png)" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>
  
 </div>
