@@ -14,9 +14,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<div align="center">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
-</div> 
 
 ---
 
@@ -64,16 +61,13 @@ You can click the Preview link to take a look at your changes.
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
 <div id="badges" align="center">
   <br><br>
-  <a href="https://www.linkedin.com/in/kdbrand">
+  <a href="https://www.linkedin.com/in/umesh-kumar98/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="https://www.twitter.com/mrdebonairfox">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/mrdebonairfox">
+  <a href="https://www.instagram.com/umesh.ekthataxi/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
   </a>&nbsp;
-  <a href="mailto:kbrandon319@gmail.com">
+  <a href="mailto:Vargos98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
   
