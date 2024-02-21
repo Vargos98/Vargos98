@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
   <a href="https://umeshkumar.vercel.app/ ">
-    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/personal-website-3219599-2682574.png" alt="Website" />
+    <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website" />
   </a>&nbsp;
   
   
