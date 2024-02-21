@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
-<div id="badges" align="center">
+<div id="badges" align="center" gap="30">
   <br><br>
   <a href="https://www.linkedin.com/in/umesh-kumar98/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
   <a href="https://umeshkumar.vercel.app/ ">
-    <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website" margin-left="20" width="40" height="40"/>
+    <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website"  width="40" height="40"/>
   </a>&nbsp;
   
   
