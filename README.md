@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 #### :hammer_and_wrench: LANGUAGES & TOOLS :
-<div align="center">
+<div align="center" >
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
-<div id="badges" align="center" gap="30">
+<div id="badges" align="center" display="flex" gap="30">
   <br><br>
   <a href="https://www.linkedin.com/in/umesh-kumar98/">
     <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIn Badge" width="30" height="30"/>
