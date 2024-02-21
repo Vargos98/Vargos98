@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="Node" alt="Node" width="40" height="40"/>
   <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://images.prismic.io/contrary-research/0f4e0201-e82a-4356-b167-ee0610ec7ad0_Vercel.jpeg?auto=compress,format" title="vercel" alt="vercel" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" title="CPP" alt="CPP" width="40" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" title="CPP" alt="CPP" width="40" height="40"/>
   <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" title="Java" alt="Java" width="40" height="40"/>
 
  
