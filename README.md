@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="Node" alt="Node" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="[https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png](https://toppng.com/public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png)" title="MongoDB" alt="MongoDB" width="40" height="40"/>
  
 </div>
 </div>
@@ -54,6 +54,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+ <img src="https://miro.medium.com/v2/resize:fit:983/1*W0fC854FAMD1EP60bnl2lg.png" title="Next" alt="Next" width="40" height="40"/>&nbsp;
+ <img src="https://iqunet.com/wp-content/uploads/2020/07/BLUE-INVERS-sensor-GRAPHQL-icon-large-400x364.jpg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   </div>
 
 ---
