@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="Email Badge"  width="30" height="30"/>
   </a>
   
-  
+  <br><br>
   
   <h2>Talk to you soon!</h2>
 </div>
