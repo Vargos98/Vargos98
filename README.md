@@ -66,9 +66,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/umesh-kumar98/">
     <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIn Badge" width="30" height="30"/>
   </a>&nbsp;
-  <a href="https://www.instagram.com/umesh.ekthataxi/">
+<!--   <a href="https://www.instagram.com/umesh.ekthataxi/">
     <img src="https://static.vecteezy.com/system/resources/previews/017/743/717/original/instagram-icon-logo-free-png.png" alt="Instagram Badge"  width="30" height="30"/>
-  </a>&nbsp;
+  </a>&nbsp; -->
   <a href="mailto:Vargos98@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="Email Badge"  width="30" height="30"/>
   </a>
