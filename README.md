@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 # Hey there :wave:, I'm Umesh, it's a pleasure to meet you!
 
 ### A few things about me
-- I am Full-Stack Web Developer doing all things creative to make the web a more unique and awesome place.
+- I am an aspiring MERN stack Developer doing all things creative to make the web a more unique and awesome place.
 - Coffee, photography, music and art are my happy places 
 - I enjoy bringing a static design or idea to life and learning new technologies.
 
