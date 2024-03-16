@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="Node" alt="Node" width="40" height="40"/>
   <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://images.prismic.io/contrary-research/0f4e0201-e82a-4356-b167-ee0610ec7ad0_Vercel.jpeg?auto=compress,format" title="vercel" alt="vercel" width="40" height="40"/>
-  <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" title="CPP" alt="CPP" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/74/74897.png" title="CPP" alt="CPP" width="40" height="40"/>
   <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" title="Java" alt="Java" width="40" height="40"/>
 
  
