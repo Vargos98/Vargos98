@@ -11,22 +11,23 @@
 ---
 
 #### :hammer_and_wrench: LANGUAGES & TOOLS :
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" >
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="Node" alt="Node" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" title="Github" alt="Github" width="40" height="40"/>
+  <img src="https://images.prismic.io/contrary-research/0f4e0201-e82a-4356-b167-ee0610ec7ad0_Vercel.jpeg?auto=compress,format" title="vercel" alt="vercel" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-cplusplus-1-1175244.png?f=webp" title="CPP" alt="CPP" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" title="Java" alt="Java" width="40" height="40"/>
 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-    <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="Node" alt="Node" width="50" height="50"/>&nbsp;
-    <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-    <img src="https://images.prismic.io/contrary-research/0f4e0201-e82a-4356-b167-ee0610ec7ad0_Vercel.jpeg?auto=compress,format" title="Vercel" alt="Vercel" width="50" height="50"/>&nbsp;
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-cplusplus-1-1175244.png?f=webp" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-    <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" title="Java" alt="Java" width="50" height="50"/>
-
-  </div>
+ 
+</div>
 </div>
 
 ---
