@@ -62,10 +62,10 @@ You can click the Preview link to take a look at your changes.
   <br><br>
   <a href="https://umeshkumar.vercel.app/ ">
     <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" alt="Website"  width="30" height="30" />
-  </a>
+  </a> <span></span> <span></span>
   <a href="https://www.linkedin.com/in/umesh-kumar98/">
     <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIn Badge" width="30" height="30"/>
-  </a>
+  </a> <span></span> <span></span>
 <!--   <a href="https://www.instagram.com/umesh.ekthataxi/">
     <img src="https://static.vecteezy.com/system/resources/previews/017/743/717/original/instagram-icon-logo-free-png.png" alt="Instagram Badge"  width="30" height="30"/>
   </a>&nbsp; -->
