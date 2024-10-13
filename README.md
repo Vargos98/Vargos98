@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
-<div id="badges"  display="flex"  align-items="center" items="center">
+<div id="badges" width="500px" margin="10px auto" display="flex"  align-items="center" justify-items="space-between">
   <br><br>
   <a href="https://www.linkedin.com/in/umesh-kumar98/">
       <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIn Badge" width="30" height="30"/>
