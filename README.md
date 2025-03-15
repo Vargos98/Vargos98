@@ -31,7 +31,7 @@
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
+    <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
     <img src="https://graphql-kr.github.io/img/twitter_image.png" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp;
     <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
   </div>
