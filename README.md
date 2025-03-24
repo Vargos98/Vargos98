@@ -1,4 +1,4 @@
-# Hey there :wave:, I'm Umesh, it's a pleasure to meet you! 
+# Hey there :wave:, I'm Umesh Kumar, it's a pleasure to meet you! 
 
 ### A few things about me
 
