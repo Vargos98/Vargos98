@@ -44,7 +44,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; padding: 20px;">
   
   <a href="https://www.linkedin.com/in/umesh-kumar98/" target="_blank">
-    <img src="https://img.icons8.com/ios11/512/linkedin.png" alt="LinkedIn Badge" width="40" height="40"/>
+    <img src="https://thumbs.dreamstime.com/b/linkedin-logo-icon-linkedin-logo-icon-vector-illustration-358522873.jpg" alt="LinkedIn Badge" width="40" height="40"/>
   </a>
   
   <a href="https://umeshkumar.vercel.app/" target="_blank">
